@@ -22,3 +22,5 @@ This system aims to reduce decision-making time for users planning trips, schedu
 1. Where do users visit, and how satisfied are they with these places?
 2. What activities do users primarily engage in?
 3. What is the extent of users' action radius?
+
+## Datasets
