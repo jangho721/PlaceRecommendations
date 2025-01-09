@@ -18,7 +18,6 @@ This system aims to reduce decision-making time for users planning trips, schedu
 * Path Generation Functionality: We plan to develop a feature that proposes optimal travel paths based on user preferences and location.
 
 ### Research Questions
-(Based on their characteristics and travel features)
 1. Where do users visit, and how satisfied are they with these places?
 2. What activities do users primarily engage in?
 3. What is the extent of users' action radius?
