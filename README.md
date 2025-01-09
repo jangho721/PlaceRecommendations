@@ -23,3 +23,10 @@ This system aims to reduce decision-making time for users planning trips, schedu
 3. What is the extent of users' action radius?
 
 ## Datasets
+The dataset used for this project is the [2023 Korea Jeju Travel Log data](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71780) provided by AIHub. It contains travel logs of 3,200 travelers, organized into 14 tables with a total of 217 columns. Data cleaning and feature engineering were performed to retain only non-empty values and select columns relevant to the project.
+
+The recommendation system will be built around three categories: *accommodations*, *tourist attractions*, and *restaurants*. Therefore, the entire dataset was divided accordingly, and this project primarily focuses on **accommodation recommendations** as a first step.
+
+Future work includes extending the system to recommend tourist attractions and restaurants, as well as applying the methodology to datasets such as [Seoul Travel Log data](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71776), the [Yelp Dataset](https://www.yelp.com/dataset), and data collected through web scraping.
+
+## Data Cleaning
